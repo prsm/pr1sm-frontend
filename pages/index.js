@@ -41,7 +41,7 @@ export default function IndexPage() {
               alt="PR1SM Instagram"
             />
           </a>
-          <a className="w-8 m-1" href="https://twitter.com/pr1sm_official/">
+          <a className="w-8 m-1" href="https://twitter.com/pr1sm_gg/">
             <img
               className="p-1"
               src="/img/social/twitter.svg"
